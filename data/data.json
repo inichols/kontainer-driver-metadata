@@ -14989,6 +14989,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -15046,6 +15050,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -15132,6 +15140,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -15189,6 +15201,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -15275,6 +15291,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -15332,6 +15352,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -15418,6 +15442,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -15475,6 +15503,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -15561,6 +15593,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -15618,6 +15654,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -15707,6 +15747,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -15764,6 +15808,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -15853,6 +15901,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -15913,6 +15965,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -16002,6 +16058,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -16062,6 +16122,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -16151,6 +16215,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -16211,6 +16279,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -16300,6 +16372,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -16360,6 +16436,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -16449,6 +16529,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -16512,6 +16596,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -16601,6 +16689,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -16658,6 +16750,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -16747,6 +16843,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -16804,6 +16904,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -16893,6 +16997,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -16953,6 +17061,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -17042,6 +17154,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -17102,6 +17218,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -17191,6 +17311,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -17251,6 +17375,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -17340,6 +17468,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -17400,6 +17532,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -17492,6 +17628,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -17555,6 +17695,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -17647,6 +17791,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -17710,6 +17858,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -17802,6 +17954,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -17865,6 +18021,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -17957,6 +18117,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -18020,6 +18184,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -18112,6 +18280,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -18175,6 +18347,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -18267,6 +18443,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -18327,6 +18507,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -18419,6 +18603,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -18479,6 +18667,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -18572,6 +18764,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -18632,6 +18828,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -18725,6 +18925,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -18788,6 +18992,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -18881,6 +19089,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -18944,6 +19156,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -19037,6 +19253,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -19100,6 +19320,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -19193,6 +19417,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -19256,6 +19484,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -19349,6 +19581,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -19412,6 +19648,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -19505,6 +19745,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -19568,6 +19812,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -19661,6 +19909,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -19724,6 +19976,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -19817,6 +20073,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -19880,6 +20140,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -19973,6 +20237,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -20036,6 +20304,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -20129,6 +20401,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -20192,6 +20468,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -20285,6 +20565,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -20348,6 +20632,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -20441,6 +20729,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -20504,6 +20796,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -20597,6 +20893,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -20660,6 +20960,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -20753,6 +21057,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -20816,6 +21124,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -20909,6 +21221,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -20972,6 +21288,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -21065,6 +21385,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -21128,6 +21452,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -21221,6 +21549,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -21284,6 +21616,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -21377,6 +21713,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -21440,6 +21780,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -21536,6 +21880,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -21599,6 +21947,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -21698,6 +22050,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -21761,6 +22117,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -21854,6 +22214,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -21917,6 +22281,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -22010,6 +22378,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -22073,6 +22445,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -22166,6 +22542,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -22235,6 +22615,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -22328,6 +22712,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -22397,6 +22785,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -22493,6 +22885,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -22562,6 +22958,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -22661,6 +23061,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -22730,6 +23134,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -22829,6 +23237,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "disable-apiserver-lb": {
       "type": "boolean"
      },
@@ -22901,6 +23313,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -23000,6 +23416,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -23063,6 +23483,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -23156,6 +23580,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -23225,6 +23653,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -23318,6 +23750,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -23387,6 +23823,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -23483,6 +23923,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -23552,6 +23996,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -23651,6 +24099,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -23720,6 +24172,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -23819,6 +24275,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "disable-apiserver-lb": {
       "type": "boolean"
      },
@@ -23891,6 +24351,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -23990,6 +24454,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "default-runtime": {
       "type": "string"
      },
@@ -24068,6 +24536,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -24170,6 +24642,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -24239,6 +24715,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -24338,6 +24818,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "docker": {
       "default": false,
       "type": "boolean"
@@ -24407,6 +24891,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -24506,6 +24994,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "disable-apiserver-lb": {
       "type": "boolean"
      },
@@ -24578,6 +25070,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -24677,6 +25173,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "default-runtime": {
       "type": "string"
      },
@@ -24755,6 +25255,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -24857,6 +25361,10 @@
    },
    {
     "agentArgs": {
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "default-runtime": {
       "type": "string"
      },
@@ -24935,6 +25443,10 @@
      },
      "datastore-keyfile": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-local-storage-path": {
       "type": "string"
@@ -25121,6 +25633,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -25354,6 +25870,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -25596,6 +26116,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -25837,6 +26361,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -26077,6 +26605,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -26322,6 +26854,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -26565,6 +27101,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -26810,6 +27350,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -27053,6 +27597,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -27298,6 +27846,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -27542,6 +28094,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -27785,6 +28341,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -28033,6 +28593,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -28276,6 +28840,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -28521,6 +29089,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -28764,6 +29336,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -29009,6 +29585,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -29253,6 +29833,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -29496,6 +30080,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -29743,6 +30331,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -29994,6 +30586,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -30243,6 +30839,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -30494,6 +31094,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -30744,6 +31348,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -30987,6 +31595,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -31235,6 +31847,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -31479,6 +32095,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -31722,6 +32342,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -31969,6 +32593,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -32220,6 +32848,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -32470,6 +33102,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -32716,6 +33352,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -32967,6 +33607,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -33216,6 +33860,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -33467,6 +34115,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -33716,6 +34368,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -33967,6 +34623,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -34216,6 +34876,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -34467,6 +35131,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -34716,6 +35384,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -34967,6 +35639,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -35216,6 +35892,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -35467,6 +36147,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -35716,6 +36400,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -35967,6 +36655,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -36217,6 +36909,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -36466,6 +37162,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -36728,6 +37428,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -36980,6 +37684,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -37242,6 +37950,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -37502,6 +38214,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -37764,6 +38480,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -38024,6 +38744,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -38288,6 +39012,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -38557,6 +39285,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -38825,6 +39557,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -39085,6 +39821,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -39347,6 +40087,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -39607,6 +40351,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -39871,6 +40619,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -40140,6 +40892,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -40407,6 +41163,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -40676,6 +41436,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -40939,6 +41703,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "etcd-extra-env": {
       "type": "array"
@@ -41208,6 +41976,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -41476,6 +42248,10 @@
      "control-plane-resource-requests": {
       "type": "string"
      },
+     "debug": {
+      "default": false,
+      "type": "bool"
+     },
      "etcd-extra-env": {
       "type": "array"
      },
@@ -41743,6 +42519,10 @@
      },
      "control-plane-resource-requests": {
       "type": "string"
+     },
+     "debug": {
+      "default": false,
+      "type": "bool"
      },
      "default-runtime": {
       "type": "string"

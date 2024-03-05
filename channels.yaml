@@ -105,6 +105,9 @@ releases:
       secrets-encryption:
         type: boolean
         default: false
+      debug:
+        type: bool
+        default: false
     agentArgs: &agentArgs-v1
       docker:
         type: boolean
@@ -129,6 +132,9 @@ releases:
         default: false
       resolv-conf:
         type: string
+      debug:
+        type: bool
+        default: false
   - version: v1.21.5+k3s1
     minChannelServerVersion: v2.6.0-alpha1
     maxChannelServerVersion: v2.6.4
