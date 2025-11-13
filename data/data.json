@@ -64348,6 +64348,9 @@
      "etcd-image": {
       "type": "string"
      },
+     "ingress-controller": {
+      "type": "string"
+     },
      "kube-apiserver-arg": {
       "type": "array"
      },
