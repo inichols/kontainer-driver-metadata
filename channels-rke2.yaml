@@ -4159,6 +4159,8 @@ releases:
         version: v3.30.300
     serverArgs: &serverArgsv1-33-5-rke2r1
       <<: *serverArgsv1-33-4-rke2r1
+      ingress-controller:
+        type: string
     agentArgs: &agentArgsv1-33-5-rke2r1
       <<: *agentArgsv1-33-4-rke2r1
     featureVersions: *featureVersions-v1
